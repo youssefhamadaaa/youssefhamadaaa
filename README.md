@@ -22,7 +22,6 @@ const youssef = {
   location:    "Cairo, Egypt 🇪🇬",
   passion:     ["Frontend Development", "UI/UX Design", "Cybersecurity"],
   currentlyLearning: ["Penetration Testing", "Red Teaming", "Advanced React Patterns"],
-  funFact:     "I debug with console.log and I'm not ashamed 😅",
 };
 ```
 
