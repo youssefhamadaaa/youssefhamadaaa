@@ -113,14 +113,15 @@ const youssef = {
 
 ---
 
-## 📊 &nbsp;GitHub Stats
+## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=youssefhamadaaa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefhamadaaa&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhamadaaa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" width="40%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youssefhamadaaa/youssefhamadaaa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youssefhamadaaa/youssefhamadaaa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/youssefhamadaaa/youssefhamadaaa/output/github-snake-dark.svg" width="95%" />
+</picture>
 
 </div>
 
